@@ -6,10 +6,10 @@
 
 <!-- Div com os stats do github -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yVinicin&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&bg_color=0d1117" alt="Vinicius Mattos github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yVinicin&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&bg_color=0d1117&cache_seconds=60" alt="Vinicius Mattos github stats" /> 
   
   <!-- Div com os Top languages -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yVinicin&layout=compact&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yVinicin&layout=compact&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&cache_seconds=60" />
 </div>
 
 <div align="center">
