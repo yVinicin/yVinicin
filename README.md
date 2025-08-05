@@ -38,7 +38,9 @@
 <br>
 
 <!-- GitHub Activity Graph -->
+<!--  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielmazz&bg_color=0d1117&color=ffffff&line=d24dff&point=888888&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <!-- Redes Sociais -->
 <div align="center"> 
