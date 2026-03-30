@@ -15,13 +15,13 @@
   <!-- Definindo título -->
   <h3>Linguagens</h3>
     <tr>
-      <!-- Python -->
-      <td>
-        <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python">
-      </td>
       <!-- C++ -->
       <td>
         <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+      </td>
+      <!-- Python -->
+      <td>
+        <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python">
       </td>
       <!-- JavaScript -->
       <td>
@@ -29,7 +29,7 @@
       </td>
       <!-- React -->
       <td>
-        <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React-Native">
+        <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg" alt="React-Native">
       </td>
     </tr>
 </div> 
