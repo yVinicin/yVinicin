@@ -12,27 +12,30 @@
   <img width="41%" height="195px" src="https://github-readme-stats-rho-seven-77.vercel.app//api/top-langs/?username=yVinicin&layout=compact&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&cache_seconds=60&exclude_repo=Aula-pratica-Blockchain---Redes" />
 
 <div align="center">
-  <!-- Definindo título -->
   <h3>Linguagens</h3>
-    <tr>
-      <!-- C++ -->
-      <td>
-        <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
-      </td>
-      <!-- Python -->
-      <td>
-        <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python">
-      </td>
-      <!-- JavaScript -->
-      <td>
-        <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
-      </td>
-      <!-- React -->
-      <td>
-        <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg" alt="React-Native">
-      </td>
-    </tr>
-</div> 
+  <table>
+    <tbody>
+      <tr>
+        <!-- C++ -->
+        <td>
+          <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+        </td>
+        <!-- Python -->
+        <td>
+          <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python">
+        </td>
+        <!-- JavaScript -->
+        <td>
+          <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+        </td>
+        <!-- React -->
+        <td>
+          <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg" alt="React-Native">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <br>
 
